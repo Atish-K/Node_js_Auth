@@ -54,7 +54,7 @@ nodejs-auth <br>
 │ --- ├── checkAuth.js <br>
 │ --- ├── key.js <br>
 │ --- └── passport.js <br>
-├── config <br>
+├── controllers <br>
 │ --- └──authController.js
 ├── models <br>
 │ --- └── User.js <br>
